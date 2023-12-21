@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/about.png</file>
+        <file>imgs/exit.png</file>
+        <file>imgs/rus_flag.png</file>
+        <file>imgs/usa_flag.png</file>
+        <file>imgs/noun.png</file>
+        <file>imgs/verb.png</file>
+        <file>imgs/adjective.png</file>
+        <file>imgs/style.png</file>
+        <file>imgs/help.png</file>
+        <file>imgs/books.png</file>
+        <file>imgs/settings.png</file>
+        <file>imgs/start.png</file>
+        <file>imgs/stop.png</file>
+        <file>imgs/check.png</file>
+    </qresource>
+</RCC>
